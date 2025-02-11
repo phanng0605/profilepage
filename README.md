@@ -110,7 +110,7 @@
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence, Algorithmic Trading.\
 ✍️ &nbsp;In my free time, I love reading book and playing music instruments.\
 💬 &nbsp;Feel free to reach out to me for trading advises or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at phannguyentrong95@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at phannguyentrong95@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -128,7 +128,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-%23000000.svg?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 
 ### 🗃 &nbsp;Databases
 
