@@ -3,6 +3,8 @@ Currently I am studying Computer Science, majoring in Artificial Intelligence, N
 
 I attended [Nanyang Technological University](https://www.ntu.edu.sg/) as a full-time student and [Rice University](https://www.rice.edu/) as an exchange student in AY 24/25!
 
+Here is my [portfolio](https://phanng0605.github.io/personal_portfolio/), please have a look and connect!
+
 ###
 
 <div align="center">
