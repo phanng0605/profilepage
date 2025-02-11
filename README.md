@@ -1,9 +1,4 @@
 <h2 align="left">Hi 👋! My name is Phan Nguyen and I'm a AI/ML engineer, from Singapore!</h2>
-Currently I am studying Computer Science, majoring in Artificial Intelligence, Natural Language Processing, Computer Vision and a bit algorithmic trading!
-
-I attended [Nanyang Technological University](https://www.ntu.edu.sg/) as a full-time student and [Rice University](https://www.rice.edu/) as an exchange student in AY 24/25!
-
-Here is my [portfolio](https://phanng0605.github.io/personal_portfolio/), please have a look and connect!
 
 ###
 
@@ -12,8 +7,6 @@ Here is my [portfolio](https://phanng0605.github.io/personal_portfolio/), please
 </div>
 
 ###
-
-<img align="right" height="150" src="https://preview.redd.it/m0euy7smqqz61.png?auto=webp&s=2989a8589c4cc98bf25be588a06c8795c0df9ab7"  />
 
 ###
 
@@ -113,20 +106,6 @@ Here is my [portfolio](https://phanng0605.github.io/personal_portfolio/), please
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
 
 ###
