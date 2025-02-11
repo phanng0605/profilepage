@@ -240,6 +240,6 @@ Here is my [portfolio](https://phanng0605.github.io/personal_portfolio/), please
 
 <div align="center">
   <a href="https://github.com/phanng0605/">
-  <img src=".github/workflows/snake.yml"
+  <img src="https://github.com/phanng0605/phanng0605/github/workflows/snake.yml"
        alt="snake" /></a>
 </div>
