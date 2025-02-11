@@ -131,11 +131,7 @@ Here is my [portfolio](https://phanng0605.github.io/personal_portfolio/), please
 
 ###
 
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Phan Nguyen</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -236,10 +232,3 @@ Here is my [portfolio](https://phanng0605.github.io/personal_portfolio/), please
 <a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/phanng0605/">
-  <img src="https://github.com/phanng0605/phanng0605/github/workflows/snake.yml"
-       alt="snake" /></a>
-</div>
