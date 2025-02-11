@@ -239,7 +239,7 @@ Here is my [portfolio](https://phanng0605.github.io/personal_portfolio/), please
 ### 🐍 &nbsp;That's How Commits move ...
 
 <div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <a href="https://github.com/phanng0605/">
+  <img src=".github/workflows/snake.yml"
        alt="snake" /></a>
 </div>
