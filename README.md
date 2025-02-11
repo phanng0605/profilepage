@@ -110,8 +110,6 @@
 
 ###
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Phan Nguyen</h2>
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am a Returning Algorithm Enginneer Intern at TikTok, Singapore.\
