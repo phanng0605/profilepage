@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Phan Nguyen and I'm a AI/ML engineer, from Singapore!</h2>
 Currently I am studying Computer Science, majoring in Artificial Intelligence, Natural Language Processing, Computer Vision and a bit algorithmic trading!
+
 I attended Nanyang Technological University as a fulltime student and Rice University for exchange on AY 24/25!
 
 ###
